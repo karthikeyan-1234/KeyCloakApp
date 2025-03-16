@@ -8,6 +8,7 @@
 
 Angular: 18
 KeyCloak: 26.1.4 (npm install keycloak-angular@16  keycloak-js@26)
+Docker Image for KeyCloak: quay.io/keycloak/keycloak:latest
 
 For angular 18 - Keycloak use the below. Refer Versions table of https://www.npmjs.com/package/keycloak-angular#installation
 npm install keycloak-angular@16  keycloak-js@26
