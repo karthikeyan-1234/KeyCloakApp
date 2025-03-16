@@ -42,11 +42,17 @@ Click on Realm Settings.
 Modify Content Security Policy Headers
 
 Go to the Security Defenses tab.
+
 Under Headers, find the Content Security Policy setting.
+
 Update frame-ancestors to allow your Angular application’s origin.
+
 For example, if your Angular app is running on http://localhost:4200, set:
+
 frame-ancestors 'self' http://localhost:4200;
+
 Save the changes.
+
 Restart Keycloak If Keycloak was running before applying the changes, restart it to apply the new settings.
 
 
