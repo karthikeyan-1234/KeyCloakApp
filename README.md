@@ -1,8 +1,8 @@
 # Demonstrates how to implement RBAC (OIDC) using KeyCloak in Angular 18, with the following functionalities:
 
-*Login redirect to KeyCloak login page
-*LogOut
-*RBAC Authorization
+Login redirect to KeyCloak login page
+LogOut
+RBAC Authorization
 
 # The preRequisites are:
 
