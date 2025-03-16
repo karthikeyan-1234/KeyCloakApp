@@ -8,9 +8,9 @@
 
 # The preRequisites are:
 
-Angular: 18
+* Angular: 18
 
-KeyCloak: 26.1.4 (npm install keycloak-angular@16  keycloak-js@26)
+* KeyCloak: 26.1.4 (npm install keycloak-angular@16  keycloak-js@26)
 
 Docker Image for KeyCloak: quay.io/keycloak/keycloak:latest
 
